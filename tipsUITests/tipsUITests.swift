@@ -2,7 +2,7 @@
 //  tipsUITests.swift
 //  tipsUITests
 //
-//  Created by Wafi MoHamed on 11/27/15.
+//  Created by Nour on 11/27/15.
 //  Copyright © 2015 Nour. All rights reserved.
 //
 
